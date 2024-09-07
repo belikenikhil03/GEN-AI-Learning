@@ -8,3 +8,4 @@ faiss-cpu
 langchain-text-splitters
 chromadb
 langchain-chroma 
+beautifulsoup4
