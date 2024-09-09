@@ -9,3 +9,4 @@ langchain-text-splitters
 chromadb
 langchain-chroma 
 beautifulsoup4
+streamlit
