@@ -10,3 +10,8 @@ chromadb
 langchain-chroma 
 beautifulsoup4
 streamlit
+langchain-groq
+langchain-core
+fastapi
+uvicorn
+langserve
